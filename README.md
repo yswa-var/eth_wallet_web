@@ -2,6 +2,8 @@
 
 A modern web-based wallet application that supports creating and managing Solana and Ethereum wallets. Built with React, Vite, Express.js, and blockchain libraries.
 
+[]
+
 ## Features
 
 - 🪙 **Multi-Blockchain Support**: Create wallets for both Solana and Ethereum
